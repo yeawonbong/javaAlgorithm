@@ -46,3 +46,11 @@ The first and only line of output must contain the number of days that the snail
   
 # Tag
 `mathematics`
+
+---
+# Solution
+- 처음엔 반복문으로 처리했으나(Snail1), 시간초과가 뜸. 수학 카테고리이기 떄문에, 반복문으로 처리하는 문제가 아닌가봄.
+- 식으로 계산하여 출력해주는데, Scanner로 입력을 받으니 계속 시간초과가 됨.(Snail2) 
+- Scanner BufferedReader 클래스 사용하여 입력 받는 게 훨씬 빠른가봄.
+  - (BufferedReader로 받을 경우 String을 Int로 캐스팅해주어야 해서 그 과정이 더 오래 걸릴 것이라 생각했는데 아니었다.) 
+- BufferedReader는 버퍼로 하나의 String을 받기 때문에 split을 이용하여 String배열로 만들어주었고, 이후 변수에 Int로 변환하여 넣어주었다. (Snail3)
