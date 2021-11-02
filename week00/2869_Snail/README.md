@@ -1,4 +1,4 @@
-
+# 달팽이는 올라가고 싶다
 # Problem
 There is a snail on the ground. It wants to climb to the top of a wooden pole with the height of V meters, measuring from the ground level. In one day it can climb A meters upwards, however during each night it sleeps, sliding B meters back down. Determine the number of days it needs to climb to the top.   
 
