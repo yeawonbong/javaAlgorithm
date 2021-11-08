@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1030_Fraction_success">
-      <change afterPath="$PROJECT_DIR$/week00/1712_BreakEvenPoint/BreakEvenPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week00/1712_BreakEvenPoint/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bruteForce/2798_BlackJack/BlackJack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bruteForce/2798_BlackJack/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week00/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week00/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week00/week00.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week00/week00.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/1193_Fraction/Fraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/math/1193_Fraction/Fraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/1193_Fraction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/math/1193_Fraction/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/1712_BreakEvenPoint/BreakEvenPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/math/1712_BreakEvenPoint/BreakEvenPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/1712_BreakEvenPoint/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/math/1712_BreakEvenPoint/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/2292_Honeycomb/HoneyComb.java" beforeDir="false" afterPath="$PROJECT_DIR$/math/2292_Honeycomb/HoneyComb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/2292_Honeycomb/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/math/2292_Honeycomb/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/2869_Snail/00.md" beforeDir="false" afterPath="$PROJECT_DIR$/math/2869_Snail/00.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/2869_Snail/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/math/2869_Snail/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/2869_Snail/Snail1.java" beforeDir="false" afterPath="$PROJECT_DIR$/math/2869_Snail/Snail1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/2869_Snail/Snail2.java" beforeDir="false" afterPath="$PROJECT_DIR$/math/2869_Snail/Snail2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/2869_Snail/Snail3.java" beforeDir="false" afterPath="$PROJECT_DIR$/math/2869_Snail/Snail3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week00/week00.iml" beforeDir="false" afterPath="$PROJECT_DIR$/math/math.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/week01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bruteForce/bruteForce.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +78,7 @@
       <recent name="C:\Users\Owner\IdeaProjects\javaAlgorithm\week00\2292_Honeycomb" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bruteForce/2798_BlackJack" />
       <recent name="C:\Users\Owner\IdeaProjects\javaAlgorithm\week00\2869_Snail" />
       <recent name="C:\Users\Owner\IdeaProjects\javaAlgorithm\week\2869_Snail" />
     </key>
@@ -73,49 +86,49 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BreakEvenPoint">
+  <component name="RunManager" selected="Application.BlackJack">
+    <configuration name="BlackJack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlackJack" />
+      <module name="bruteForce" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BreakEvenPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakEvenPoint" />
-      <module name="week00" />
+      <module name="math" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Fraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fraction" />
-      <module name="week00" />
+      <module name="math" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="HoneyComb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HoneyComb" />
-      <module name="week00" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Snail2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Snail2" />
-      <module name="week00" />
+      <module name="math" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Snail3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Snail3" />
-      <module name="week00" />
+      <module name="math" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BlackJack" />
         <item itemvalue="Application.BreakEvenPoint" />
         <item itemvalue="Application.HoneyComb" />
         <item itemvalue="Application.Fraction" />
         <item itemvalue="Application.Snail3" />
-        <item itemvalue="Application.Snail2" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +144,7 @@
       <workItem from="1635391083361" duration="6227000" />
       <workItem from="1635489511849" duration="14908000" />
       <workItem from="1635910610159" duration="2010000" />
+      <workItem from="1636353740789" duration="2896000" />
     </task>
     <task id="LOCAL-00001" summary="1028_Snail">
       <created>1635398045280</created>

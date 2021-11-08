@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bruteForce/bruteForce.iml" filepath="$PROJECT_DIR$/bruteForce/bruteForce.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaAlgorithm.iml" filepath="$PROJECT_DIR$/.idea/javaAlgorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week00/week00.iml" filepath="$PROJECT_DIR$/week00/week00.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week01/week01.iml" filepath="$PROJECT_DIR$/week01/week01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/math/math.iml" filepath="$PROJECT_DIR$/math/math.iml" />
     </modules>
   </component>
 </project>

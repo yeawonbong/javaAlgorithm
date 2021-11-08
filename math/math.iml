@@ -3,11 +3,11 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1193_Fraction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1712_BreakEvenPoint" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2292_Honeycomb" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2869_Snail" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Basicio" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/1193_Fraction" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2292_Honeycomb" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/1712_BreakEvenPoint" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="openjdk-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
