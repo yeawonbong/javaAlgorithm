@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1108_Blackjack_success">
-      <change afterPath="$PROJECT_DIR$/bruteForce/1436_FilmDirectorShom/FilmDirectorShom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bruteForce/1436_FilmDirectorShom/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bruteForce/2231_DigitGenerator/DigitGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bruteForce/2231_DigitGenerator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bruteForce/7568_Bulk/Bulk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bruteForce/7568_Bulk/README.md" afterDir="false" />
+    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1110_week01_BruteForce">
+      <change afterPath="$PROJECT_DIR$/sorting/2108_Statistic/Statistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/2750_SortNum1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/2750_SortNum1/SortNum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/2751_SortNum2/SortNum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/sorting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bruteForce/bruteForce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bruteForce/bruteForce.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bruteForce/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bruteForce/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-17" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bruteForce/1436_FilmDirectorShom" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sort/2750_SortNum" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -62,10 +60,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="proofread" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sort/2750_SortNum" />
       <recent name="$PROJECT_DIR$/bruteForce/1436_FilmDirectorShom" />
       <recent name="$PROJECT_DIR$/bruteForce/7568_Bulk" />
       <recent name="$PROJECT_DIR$/week00/1712_BreakEvenPoint" />
@@ -80,30 +79,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FilmDirectorShom">
-    <configuration name="BlackJack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BlackJack" />
-      <module name="bruteForce" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BreakEvenPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakEvenPoint" />
-      <module name="math" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Statistic">
     <configuration name="Bulk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bulk" />
-      <module name="bruteForce" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DigitGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DigitGenerator" />
       <module name="bruteForce" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,13 +94,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortNum" />
+      <module name="sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortNum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortNum2" />
+      <module name="sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Statistic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Statistic" />
+      <module name="sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Statistic" />
+        <item itemvalue="Application.SortNum2" />
+        <item itemvalue="Application.SortNum" />
         <item itemvalue="Application.FilmDirectorShom" />
         <item itemvalue="Application.Bulk" />
-        <item itemvalue="Application.DigitGenerator" />
-        <item itemvalue="Application.BlackJack" />
-        <item itemvalue="Application.BreakEvenPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +138,9 @@
       <workItem from="1635489511849" duration="14908000" />
       <workItem from="1635910610159" duration="2010000" />
       <workItem from="1636353740789" duration="3315000" />
-      <workItem from="1636514591983" duration="11569000" />
+      <workItem from="1636514591983" duration="11629000" />
+      <workItem from="1636707018405" duration="3000" />
+      <workItem from="1637080161411" duration="4949000" />
     </task>
     <task id="LOCAL-00001" summary="1028_Snail">
       <created>1635398045280</created>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636360506666</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1110_week01_BruteForce">
+      <created>1636527545636</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636527545636</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +214,11 @@
     <MESSAGE value="1029_Snail_success" />
     <MESSAGE value="1030_Fraction_success" />
     <MESSAGE value="1108_Blackjack_success" />
-    <option name="LAST_COMMIT_MESSAGE" value="1108_Blackjack_success" />
+    <MESSAGE value="1110_week01_BruteForce" />
+    <option name="LAST_COMMIT_MESSAGE" value="1110_week01_BruteForce" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

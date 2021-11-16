@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../sorting">
+      <sourceFolder url="file://$MODULE_DIR$/../sorting/2108_Statistic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../sorting/2750_SortNum1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../sorting/2751_SortNum2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../sorting/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="openjdk-17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

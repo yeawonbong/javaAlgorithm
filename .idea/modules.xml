@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/bruteForce/bruteForce.iml" filepath="$PROJECT_DIR$/bruteForce/bruteForce.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaAlgorithm.iml" filepath="$PROJECT_DIR$/.idea/javaAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/math/math.iml" filepath="$PROJECT_DIR$/math/math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
     </modules>
   </component>
 </project>
