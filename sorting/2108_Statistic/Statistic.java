@@ -18,6 +18,7 @@ public class Statistic {
         System.out.println(mode(arr, len));
         System.out.println(arr[len-1] - arr[0]);
         }
+
     public static int mode(int[] arr, int len) {
         if (len == 1)
             return arr[0];

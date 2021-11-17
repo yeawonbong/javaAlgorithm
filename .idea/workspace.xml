@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1117_week02_Sorting">
-      <change afterPath="$PROJECT_DIR$/out/production/sorting/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sorting/SortInside.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sorting/SortNum1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sorting/SortNum2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sorting/SortNum3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sorting/Statistic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/10989_SortNum3/SortNum3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/1427_SortInside/SortInside.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sorting/2108_Statistic/Statistic.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/2108_Statistic/Statistic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting/2751_SortNum2/SortNum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/2751_SortNum2/SortNum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting/sorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/sorting.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +134,7 @@
       <workItem from="1636353740789" duration="3315000" />
       <workItem from="1636514591983" duration="11629000" />
       <workItem from="1636707018405" duration="3000" />
-      <workItem from="1637080161411" duration="16601000" />
+      <workItem from="1637080161411" duration="16620000" />
     </task>
     <task id="LOCAL-00001" summary="1028_Snail">
       <created>1635398045280</created>
@@ -203,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637127250891</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1117_week02_Sorting">
+      <created>1637134747699</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637134747699</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
