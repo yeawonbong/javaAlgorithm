@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../sorting">
+      <sourceFolder url="file://$MODULE_DIR$/../sorting/10989_SortNum3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../sorting/1427_SortInside" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../sorting/2108_Statistic" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../sorting/2750_SortNum1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../sorting/2751_SortNum2" isTestSource="false" />

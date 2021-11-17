@@ -1,37 +1,26 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Statistic {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        float len = Integer.parseInt(br.readLine());
-        float sum=0;
-        int[] arr = new int[(int)len];
-        if (len == 1) {
-            int n = Integer.parseInt(br.readLine());
-            System.out.println(n);
-            System.out.println(n);
-            System.out.println(n);
-            System.out.println(0);
-            return;
-        }
+        int len = Integer.parseInt(br.readLine());
+        int sum=0;
+        int[] arr = new int[len];
         for (int i=0; i < len; i++) {
             arr[i] = Integer.parseInt(br.readLine());
             sum += arr[i];
         }
         Arrays.sort(arr);
-        System.out.println(Math.round(sum / len));
-        System.out.println(arr[((int)len-1) / 2]);
-        System.out.println(mode(arr, (int)len));
-        System.out.println(arr[(int)len-1] - arr[0]);
+        System.out.println(Math.round((double) sum / len));
+        System.out.println(arr[(len-1) / 2]);
+        System.out.println(mode(arr, len));
+        System.out.println(arr[len-1] - arr[0]);
         }
-
-    public static int mode(int[] arr, int len) throws Exception {
-        ArrayList<String> al = new ArrayList<>();
-        String in = null;
-
+    public static int mode(int[] arr, int len) {
+        if (len == 1)
+            return arr[0];
         int j=1, res=0, topc=0, ex=0;
         int[] count = new int[len];
         count[0] = 1;

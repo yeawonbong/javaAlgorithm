@@ -2,23 +2,22 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.ArrayList;
-import java.util.Collections;
 
-public class SortNum2 {
+public class SortNum3 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         int len = Integer.parseInt(br.readLine());
-        ArrayList<Integer> arr = new ArrayList<>();
+        int[] count = new int[10001];
         for (int i=0; i < len; i++) {
-            arr.add(Integer.parseInt(br.readLine()));
+            count[Integer.parseInt(br.readLine())]++;
         }
-        Collections.sort(arr);
-        for (int i : arr) {
-            bw.write(Integer.toString(i));
-            bw.write("\n");
+        for (int i=0; i < 10001; i++) {
+            for (int j=0; j < count[i]; j++) {
+                bw.write(Integer.toString(i));
+                bw.write("\n");
+            }
         }
         bw.flush();
         bw.close();
