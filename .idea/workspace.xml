@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1110_week01_BruteForce">
-      <change afterPath="$PROJECT_DIR$/sorting/2108_Statistic/Statistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/2750_SortNum1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/2750_SortNum1/SortNum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/2751_SortNum2/SortNum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/sorting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1117_week02_Sorting">
+      <change afterPath="$PROJECT_DIR$/sorting/1427_SortInside/SortInside.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2108_Statistic/Statistic.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/2108_Statistic/Statistic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2751_SortNum2/SortNum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/2751_SortNum2/SortNum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/sorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/sorting.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,17 +77,17 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Statistic">
-    <configuration name="Bulk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bulk" />
+  <component name="RunManager" selected="Application.SortInside">
+    <configuration name="FilmDirectorShom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FilmDirectorShom" />
       <module name="bruteForce" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilmDirectorShom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FilmDirectorShom" />
-      <module name="bruteForce" />
+    <configuration name="SortInside" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortInside" />
+      <module name="sorting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortInside" />
         <item itemvalue="Application.Statistic" />
         <item itemvalue="Application.SortNum2" />
         <item itemvalue="Application.SortNum" />
         <item itemvalue="Application.FilmDirectorShom" />
-        <item itemvalue="Application.Bulk" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +138,7 @@
       <workItem from="1636353740789" duration="3315000" />
       <workItem from="1636514591983" duration="11629000" />
       <workItem from="1636707018405" duration="3000" />
-      <workItem from="1637080161411" duration="4949000" />
+      <workItem from="1637080161411" duration="10672000" />
     </task>
     <task id="LOCAL-00001" summary="1028_Snail">
       <created>1635398045280</created>
@@ -184,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636527545636</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1117_week02_Sorting">
+      <created>1637085147034</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637085147034</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +220,8 @@
     <MESSAGE value="1030_Fraction_success" />
     <MESSAGE value="1108_Blackjack_success" />
     <MESSAGE value="1110_week01_BruteForce" />
-    <option name="LAST_COMMIT_MESSAGE" value="1110_week01_BruteForce" />
+    <MESSAGE value="1117_week02_Sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="1117_week02_Sorting" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
