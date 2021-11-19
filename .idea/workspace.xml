@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1117_week02_Sorting">
-      <change beforePath="$PROJECT_DIR$/sorting/2108_Statistic/Statistic.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/2108_Statistic/Statistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/11650_SortCoordinate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/11650_SortCoordinate/SortCoordinate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2750_SortNum1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/2750_SortNum1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/sorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/sorting.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-17" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sort/2750_SortNum" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sorting/11650_SortCoordinate" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -58,11 +62,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sorting/11650_SortCoordinate" />
       <recent name="$PROJECT_DIR$/sort/2750_SortNum" />
       <recent name="$PROJECT_DIR$/bruteForce/1436_FilmDirectorShom" />
       <recent name="$PROJECT_DIR$/bruteForce/7568_Bulk" />
       <recent name="$PROJECT_DIR$/week00/1712_BreakEvenPoint" />
-      <recent name="C:\Users\Owner\IdeaProjects\javaAlgorithm\week00\2292_Honeycomb" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/bruteForce/2798_BlackJack" />
@@ -73,16 +77,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortNum3">
-    <configuration name="SortInside" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortInside" />
+  <component name="RunManager" selected="Application.SortCoordinate">
+    <configuration name="SortCoordinate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortCoordinate" />
       <module name="sorting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortNum" />
+    <configuration name="SortInside" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortInside" />
       <module name="sorting" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortCoordinate" />
         <item itemvalue="Application.SortNum3" />
         <item itemvalue="Application.SortNum2" />
         <item itemvalue="Application.Statistic" />
         <item itemvalue="Application.SortInside" />
-        <item itemvalue="Application.SortNum" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +138,9 @@
       <workItem from="1636353740789" duration="3315000" />
       <workItem from="1636514591983" duration="11629000" />
       <workItem from="1636707018405" duration="3000" />
-      <workItem from="1637080161411" duration="16620000" />
+      <workItem from="1637080161411" duration="16902000" />
+      <workItem from="1637314110417" duration="731000" />
+      <workItem from="1637314856429" duration="2139000" />
     </task>
     <task id="LOCAL-00001" summary="1028_Snail">
       <created>1635398045280</created>
@@ -199,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637134747699</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1117_week02_Sorting">
+      <created>1637134762260</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1637134762260</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
