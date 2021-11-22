@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class SortCoordinate {
+public class SortCoordinate2 {
     public static void main(String[] args) throws Exception{
         Scanner scanner= new Scanner(System.in);
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -21,10 +21,10 @@ public class SortCoordinate {
         Arrays.sort(arr, new Comparator<int[]>() { // 생성과 함께 오버라이딩
             @Override
             public int compare(int[] o1, int[] o2) {
-                if (o1[1] == o2[1])
-                    return o1[0] - o2[0];
-                else
+                if (o1[0] == o2[0])
                     return o1[1] - o2[1];
+                else
+                    return o1[0] - o2[0];
             }
         });
         for (int i=0; i < len; i++) {

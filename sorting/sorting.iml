@@ -10,6 +10,10 @@
       <sourceFolder url="file://$MODULE_DIR$/2751_SortNum2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/11650_SortCoordinate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10814_SortMemAge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11651_SortCoordinate2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1181_SortWord" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18870_CoordinateCompress" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="openjdk-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
