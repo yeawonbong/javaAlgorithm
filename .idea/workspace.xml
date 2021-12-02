@@ -4,24 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1119_Sort_2D_Array">
-      <change afterPath="$PROJECT_DIR$/sorting/10814_SortMemAge/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/10814_SortMemAge/SortMemAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/11651_SortCoordinate2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/11651_SortCoordinate2/SortCoordinate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/1181_SortWord/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/1181_SortWord/SortWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/18870_CoordinateCompress/CoordinateCompress_1timeout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/18870_CoordinateCompress/CoordinateCompress_2timeout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/18870_CoordinateCompress/CoordinateCompress_3timeout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/18870_CoordinateCompress/CoordinateCompress_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/18870_CoordinateCompress/README.md" afterDir="false" />
+    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1122_Sort_fin">
+      <change afterPath="$PROJECT_DIR$/backtracking/15649_NM1/NM1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/15649_NM1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/backtracking.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting/SortNum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting/SortNum3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting/Statistic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting/Statistic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting/11650_SortCoordinate/SortCoordinate.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/11650_SortCoordinate/SortCoordinate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting/sorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/sorting.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,21 +78,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CoordinateCompress_4">
-    <configuration name="CoordinateCompress_1timeout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoordinateCompress_1timeout" />
-      <module name="sorting" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CoordinateCompress_2timeout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoordinateCompress_2timeout" />
-      <module name="sorting" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NM1">
     <configuration name="CoordinateCompress_3timeout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CoordinateCompress_3timeout" />
       <module name="sorting" />
@@ -119,20 +93,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMemAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortMemAge" />
-      <module name="sorting" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="backtracking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NM1" />
+      <module name="backtracking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <module name="backtracking" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NM1" />
+        <item itemvalue="Application.Unnamed" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.CoordinateCompress_4" />
         <item itemvalue="Application.CoordinateCompress_3timeout" />
-        <item itemvalue="Application.CoordinateCompress_2timeout" />
-        <item itemvalue="Application.CoordinateCompress_1timeout" />
-        <item itemvalue="Application.SortMemAge" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +142,9 @@
       <workItem from="1637314110417" duration="731000" />
       <workItem from="1637314856429" duration="6750000" />
       <workItem from="1637545505879" duration="1410000" />
-      <workItem from="1637546935839" duration="13205000" />
+      <workItem from="1637546935839" duration="13758000" />
+      <workItem from="1638338162052" duration="1956000" />
+      <workItem from="1638429481432" duration="3603000" />
     </task>
     <task id="LOCAL-00001" summary="1028_Snail">
       <created>1635398045280</created>
@@ -234,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637317083204</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1122_Sort_fin">
+      <created>1637562461779</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1637562461779</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +263,8 @@
     <MESSAGE value="1110_week01_BruteForce" />
     <MESSAGE value="1117_week02_Sorting" />
     <MESSAGE value="1119_Sort_2D_Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="1119_Sort_2D_Array" />
+    <MESSAGE value="1122_Sort_fin" />
+    <option name="LAST_COMMIT_MESSAGE" value="1122_Sort_fin" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
