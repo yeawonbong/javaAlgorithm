@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1202_Backtrackint_NM1">
-      <change beforePath="$PROJECT_DIR$/backtracking/15649_NM1/NM1.java" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/15649_NM1/NM1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/15650_NM2/NM2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/15650_NM2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/15651_NM3/NM3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/15651_NM3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/15652_NM4/NM4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/15652_NM4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking/15649_NM1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/15649_NM1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking/backtracking.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/backtracking.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +53,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-17" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sorting/18870_CoordinateCompress" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backtracking" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -58,46 +66,47 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backtracking" />
+      <recent name="$PROJECT_DIR$/backtracking/15650_NM2" />
       <recent name="$PROJECT_DIR$/sorting/18870_CoordinateCompress" />
       <recent name="$PROJECT_DIR$/sorting/10814_SortMemAge" />
       <recent name="$PROJECT_DIR$/sorting/1181_SortWord" />
-      <recent name="$PROJECT_DIR$/sorting/11650_SortCoordinate2" />
-      <recent name="$PROJECT_DIR$/sorting/11650_SortCoordinate" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backtracking/15650_NM1" />
+      <recent name="$PROJECT_DIR$/backtracking/15650_NM2/15649_NM2" />
       <recent name="$PROJECT_DIR$/sorting/11651_SortCoordinate2" />
       <recent name="$PROJECT_DIR$/bruteForce/2798_BlackJack" />
       <recent name="C:\Users\Owner\IdeaProjects\javaAlgorithm\week00\2869_Snail" />
-      <recent name="C:\Users\Owner\IdeaProjects\javaAlgorithm\week\2869_Snail" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NM1">
-    <configuration name="CoordinateCompress_3timeout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoordinateCompress_3timeout" />
-      <module name="sorting" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CoordinateCompress_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoordinateCompress_4" />
-      <module name="sorting" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.NM4">
+    <configuration name="NM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NM1" />
       <module name="backtracking" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NM1" />
+    <configuration name="NM2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NM2" />
+      <module name="backtracking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NM3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NM3" />
+      <module name="backtracking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NM4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NM4" />
       <module name="backtracking" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NM4" />
+        <item itemvalue="Application.NM3" />
+        <item itemvalue="Application.NM2" />
         <item itemvalue="Application.NM1" />
         <item itemvalue="Application.Unnamed" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CoordinateCompress_4" />
-        <item itemvalue="Application.CoordinateCompress_3timeout" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +149,7 @@
       <workItem from="1637545505879" duration="1410000" />
       <workItem from="1637546935839" duration="13758000" />
       <workItem from="1638338162052" duration="1956000" />
-      <workItem from="1638429481432" duration="3766000" />
+      <workItem from="1638429481432" duration="6069000" />
     </task>
     <task id="LOCAL-00001" summary="1028_Snail">
       <created>1635398045280</created>
@@ -233,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638433165092</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1202_Backtrackint_NM1">
+      <created>1638433271074</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1638433271074</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
