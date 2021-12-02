@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1122_Sort_fin">
-      <change afterPath="$PROJECT_DIR$/backtracking/15649_NM1/NM1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/15649_NM1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/backtracking.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1202_Backtrackint_NM1">
+      <change beforePath="$PROJECT_DIR$/backtracking/15649_NM1/NM1.java" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/15649_NM1/NM1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +140,7 @@
       <workItem from="1637545505879" duration="1410000" />
       <workItem from="1637546935839" duration="13758000" />
       <workItem from="1638338162052" duration="1956000" />
-      <workItem from="1638429481432" duration="3603000" />
+      <workItem from="1638429481432" duration="3766000" />
     </task>
     <task id="LOCAL-00001" summary="1028_Snail">
       <created>1635398045280</created>
@@ -230,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637562461779</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1202_Backtrackint_NM1">
+      <created>1638433165092</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1638433165092</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +267,8 @@
     <MESSAGE value="1117_week02_Sorting" />
     <MESSAGE value="1119_Sort_2D_Array" />
     <MESSAGE value="1122_Sort_fin" />
-    <option name="LAST_COMMIT_MESSAGE" value="1122_Sort_fin" />
+    <MESSAGE value="1202_Backtrackint_NM1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1202_Backtrackint_NM1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
