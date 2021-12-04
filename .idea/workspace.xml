@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1202_Backtrackint_NM1">
-      <change afterPath="$PROJECT_DIR$/backtracking/15650_NM2/NM2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/15650_NM2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/15651_NM3/NM3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/15651_NM3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/15652_NM4/NM4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/15652_NM4/README.md" afterDir="false" />
+    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1204_Backtracking_NQUEEN">
+      <change afterPath="$PROJECT_DIR$/backtracking/9663_NQueen/NQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/9663_NQueen/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backtracking/15649_NM1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/15649_NM1/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backtracking/backtracking.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/backtracking.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +78,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NM4">
+  <component name="RunManager" selected="Application.NQueen">
     <configuration name="NM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NM1" />
       <module name="backtracking" />
@@ -112,7 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NQueen" />
       <module name="backtracking" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NQueen" />
         <item itemvalue="Application.NM4" />
         <item itemvalue="Application.NM3" />
         <item itemvalue="Application.NM2" />
         <item itemvalue="Application.NM1" />
-        <item itemvalue="Application.Unnamed" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +145,10 @@
       <workItem from="1637545505879" duration="1410000" />
       <workItem from="1637546935839" duration="13758000" />
       <workItem from="1638338162052" duration="1956000" />
-      <workItem from="1638429481432" duration="6069000" />
+      <workItem from="1638429481432" duration="6345000" />
+      <workItem from="1638446852337" duration="61000" />
+      <workItem from="1638509393877" duration="1305000" />
+      <workItem from="1638603379822" duration="3356000" />
     </task>
     <task id="LOCAL-00001" summary="1028_Snail">
       <created>1635398045280</created>
@@ -249,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638433271074</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="1202_Backtracking_NM1~4">
+      <created>1638435632645</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1638435632645</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +290,10 @@
     <MESSAGE value="1119_Sort_2D_Array" />
     <MESSAGE value="1122_Sort_fin" />
     <MESSAGE value="1202_Backtrackint_NM1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1202_Backtrackint_NM1" />
+    <MESSAGE value="1202_Backtrackint_NM1~4" />
+    <MESSAGE value="1202_Backtracking_NM1~4" />
+    <MESSAGE value="1204_Backtracking_NQUEEN" />
+    <option name="LAST_COMMIT_MESSAGE" value="1204_Backtracking_NQUEEN" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

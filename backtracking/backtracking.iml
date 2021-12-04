@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/15651_NM3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/15652_NM4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9663_NQueen" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="openjdk-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
