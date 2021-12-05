@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1204_Backtracking_NQUEEN">
-      <change afterPath="$PROJECT_DIR$/backtracking/9663_NQueen/NQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/9663_NQueen/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/2580_Sudoku/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/2580_Sudoku/Sudoku.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backtracking/backtracking.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/backtracking.iml" afterDir="false" />
     </list>
@@ -78,14 +78,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NQueen">
-    <configuration name="NM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NM1" />
-      <module name="backtracking" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Sudoku">
     <configuration name="NM2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NM2" />
       <module name="backtracking" />
@@ -114,13 +107,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sudoku" />
+      <module name="backtracking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sudoku" />
         <item itemvalue="Application.NQueen" />
         <item itemvalue="Application.NM4" />
         <item itemvalue="Application.NM3" />
         <item itemvalue="Application.NM2" />
-        <item itemvalue="Application.NM1" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,8 @@
       <workItem from="1638429481432" duration="6345000" />
       <workItem from="1638446852337" duration="61000" />
       <workItem from="1638509393877" duration="1305000" />
-      <workItem from="1638603379822" duration="3356000" />
+      <workItem from="1638603379822" duration="5193000" />
+      <workItem from="1638720755214" duration="5200000" />
     </task>
     <task id="LOCAL-00001" summary="1028_Snail">
       <created>1635398045280</created>
@@ -255,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638435632645</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="1204_Backtracking_NQUEEN">
+      <created>1638606748804</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1638606748804</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
