@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1206_Backtracking_Sudoku1">
-      <change afterPath="$PROJECT_DIR$/backtracking/14888_Operator/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/14888_Operator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/2580_Sudoku/Sudoku2.java" afterDir="false" />
+    <list default="true" id="6c7c5a70-8132-4c68-a79d-d437dcd0326b" name="Changes" comment="1208_Backtracking">
+      <change afterPath="$PROJECT_DIR$/backtracking/14889_StartLink/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/14889_StartLink/StartLink.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking/2580_Sudoku/Sudoku2.java" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/2580_Sudoku/Sudoku2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backtracking/backtracking.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/backtracking.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,14 +79,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Operator">
-    <configuration name="NM3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NM3" />
-      <module name="backtracking" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Sudoku2">
     <configuration name="NM4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NM4" />
       <module name="backtracking" />
@@ -115,13 +108,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sudoku2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sudoku2" />
+      <module name="backtracking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Operator" />
+        <item itemvalue="Application.Sudoku2" />
         <item itemvalue="Application.Sudoku1_fail" />
+        <item itemvalue="Application.Operator" />
         <item itemvalue="Application.NQueen" />
         <item itemvalue="Application.NM4" />
-        <item itemvalue="Application.NM3" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,8 @@
       <workItem from="1638720755214" duration="5419000" />
       <workItem from="1638852158999" duration="2327000" />
       <workItem from="1638870411785" duration="8118000" />
-      <workItem from="1638935039613" duration="2298000" />
+      <workItem from="1638935039613" duration="2938000" />
+      <workItem from="1639020184854" duration="5819000" />
     </task>
     <task id="LOCAL-00001" summary="1028_Snail">
       <created>1635398045280</created>
@@ -274,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638726177418</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="1208_Backtracking">
+      <created>1638956995060</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1638956995060</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +321,8 @@
     <MESSAGE value="1202_Backtracking_NM1~4" />
     <MESSAGE value="1204_Backtracking_NQUEEN" />
     <MESSAGE value="1206_Backtracking_Sudoku1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1206_Backtracking_Sudoku1" />
+    <MESSAGE value="1208_Backtracking" />
+    <option name="LAST_COMMIT_MESSAGE" value="1208_Backtracking" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
